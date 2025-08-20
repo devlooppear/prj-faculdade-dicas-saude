@@ -1,6 +1,6 @@
 export enum Routes {
   HOME = "/",
   TIPS = "/dicas",
-  ABOUT = "/about",
-  CONTACT = "/contact",
+  ABOUT = "/sobre",
+  CONTACT = "/contato",
 }

@@ -1,0 +1,20 @@
+{
+  "about": {
+    "title": "Sobre o Dicas Saúde",
+    "subtitle": "Ajudando as pessoas a viverem de forma mais saudável e feliz",
+    "description": "O Dicas Saúde é um projeto criado para inspirar e orientar as pessoas a adotarem um estilo de vida mais saudável. Através de dicas práticas, informações científicas e ferramentas acessíveis, nosso objetivo é ajudar você a desenvolver hábitos sustentáveis que melhorem o seu bem-estar físico e mental.",
+    "missionTitle": "Nossa Missão",
+    "missionDescription": "Nossa missão é tornar o conhecimento sobre saúde acessível a todos. Acreditamos que pequenas ações diárias podem transformar vidas, e nosso objetivo é empoderar as pessoas com informações que realmente fazem a diferença.",
+    "skillsTitle": "Principais Áreas de Foco",
+    "skills": [
+      "Promoção de uma alimentação equilibrada e hábitos saudáveis",
+      "Incentivo à prática regular de atividades físicas",
+      "Conscientização sobre saúde mental e bem-estar emocional",
+      "Disponibilização de informações científicas de forma clara e acessível",
+      "Ajuda na criação de pequenos hábitos sustentáveis que geram grandes mudanças"
+    ],
+    "careerGoalTitle": "Nossa Visão",
+    "careerGoalDescription": "Nossa visão é um mundo onde as pessoas tenham as ferramentas e informações certas para cuidar da sua saúde de forma natural e eficaz. Nosso objetivo é gerar impacto positivo na sociedade, ajudando cada pessoa a melhorar seus hábitos.",
+    "contact": "Quer saber mais ou colaborar conosco? Entre em contato e vamos juntos construir um futuro mais saudável!"
+  }
+}

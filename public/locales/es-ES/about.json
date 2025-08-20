@@ -1,0 +1,20 @@
+{
+  "about": {
+    "title": "Sobre Dicas Saúde",
+    "subtitle": "Ayudando a las personas a vivir de forma más saludable y feliz",
+    "description": "Dicas Saúde es un proyecto creado para inspirar y guiar a las personas hacia un estilo de vida más saludable. A través de consejos prácticos, información científica y herramientas accesibles, nuestro objetivo es ayudarte a desarrollar hábitos sostenibles que mejoren tu bienestar físico y mental.",
+    "missionTitle": "Nuestra Misión",
+    "missionDescription": "Nuestra misión es hacer que el conocimiento sobre la salud sea accesible para todos. Creemos que las pequeñas acciones diarias pueden transformar vidas, y nuestro objetivo es empoderar a las personas con información que realmente marque la diferencia.",
+    "skillsTitle": "Áreas de Enfoque Principal",
+    "skills": [
+      "Promoción de una alimentación equilibrada y hábitos saludables",
+      "Fomentar la actividad física regular y estilos de vida activos",
+      "Concientización sobre la salud mental y el bienestar emocional",
+      "Proporcionar información científica de manera clara y sencilla",
+      "Ayudar a crear pequeños hábitos sostenibles que generen grandes cambios"
+    ],
+    "careerGoalTitle": "Nuestra Visión",
+    "careerGoalDescription": "Visualizamos un mundo donde las personas tengan las herramientas e información correctas para cuidar su salud de forma natural y eficaz. Nuestro objetivo es generar un impacto positivo en la sociedad ayudando a las personas a mejorar sus hábitos.",
+    "contact": "¿Quieres saber más o colaborar con nosotros? ¡Contáctanos y construyamos juntos un futuro más saludable!"
+  }
+}

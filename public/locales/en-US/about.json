@@ -1,0 +1,20 @@
+{
+  "about": {
+    "title": "About Dicas Saúde",
+    "subtitle": "Helping people live healthier and happier lives",
+    "description": "Dicas Saúde is a project created to inspire and guide people towards a healthier lifestyle. Through practical tips, scientific information, and accessible tools, we aim to help you develop sustainable habits that improve your physical and mental well-being.",
+    "missionTitle": "Our Mission",
+    "missionDescription": "Our mission is to make health knowledge accessible to everyone. We believe that small daily actions can transform lives, and our goal is to empower people with information that truly makes a difference.",
+    "skillsTitle": "Main Focus Areas",
+    "skills": [
+      "Promoting balanced nutrition and healthy eating habits",
+      "Encouraging regular physical activity and active lifestyles",
+      "Raising awareness about mental health and emotional well-being",
+      "Providing scientifically backed information in a simple and clear way",
+      "Helping people create small, sustainable habits that lead to big changes"
+    ],
+    "careerGoalTitle": "Our Vision",
+    "careerGoalDescription": "We envision a world where people have the right tools and information to take care of their health naturally and effectively. Our goal is to create a positive impact on society by helping people improve their habits.",
+    "contact": "Do you want to learn more or collaborate with us? Reach out and let's build a healthier future together!"
+  }
+}
