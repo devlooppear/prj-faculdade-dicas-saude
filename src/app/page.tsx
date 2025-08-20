@@ -13,9 +13,12 @@ import {
   CardMedia,
 } from "@mui/material";
 import HealthAndSafetyIcon from "@mui/icons-material/HealthAndSafety";
+import { useTranslation, Trans } from "react-i18next";
 import systemColors from "@/common/constants/systemColors";
 
 export default function Home() {
+  const { t } = useTranslation();
+
   return (
     <Container maxWidth="md">
       <Box
@@ -35,7 +38,7 @@ export default function Home() {
         />
 
         <Typography variant="h2" component="h1" gutterBottom>
-          Dicas Saúde
+          {t("title")}
         </Typography>
 
         <Typography
@@ -48,10 +51,8 @@ export default function Home() {
             px: 1,
           }}
         >
-          Welcome to <strong>Dicas Saúde</strong> — a project created for my
-          <strong> university extension program</strong>. Our mission is to
-          share <strong>practical and reliable health tips</strong> to help
-          communities live healthier and happier lives.
+          {/* Use Trans to keep HTML tags like <strong> */}
+          <Trans i18nKey="welcome" />
         </Typography>
 
         <Link href="/dicas" passHref>
@@ -66,7 +67,7 @@ export default function Home() {
               fontSize: "1.1rem",
             }}
           >
-            Explore Health Tips
+            {t("explore_button")}
           </Button>
         </Link>
       </Box>
@@ -112,11 +113,11 @@ export default function Home() {
             component="div"
             sx={{ fontWeight: "bold" }}
           >
-            Start Your Healthy Journey 🍃
+            {t("card.title")}
           </Typography>
+
           <Typography variant="body1" color="text.secondary" sx={{ mb: 2 }}>
-            Learn how to live a better and healthier life through practical
-            tips, balanced nutrition, and a lifestyle that works for you.
+            {t("card.description")}
           </Typography>
 
           <Link href="/dicas" passHref>
@@ -135,7 +136,7 @@ export default function Home() {
                 fontWeight: "bold",
               }}
             >
-              See More Tips
+              {t("card.button")}
             </Button>
           </Link>
         </CardContent>
