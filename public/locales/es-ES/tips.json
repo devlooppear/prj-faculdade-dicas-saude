@@ -1,3 +1,119 @@
 {
-    "tips" : {}
+  "tips": {
+    "title": "Consejos de Salud",
+    "subtitle": "Aprende a mejorar tu salud con pasos simples y prácticos",
+    "labels": {
+      "why": "Por qué",
+      "how": "Cómo hacerlo",
+      "where": "Dónde aplicarlo",
+      "curiosities": "Curiosidades 🧠",
+      "benefits": "Beneficios 🌿"
+    },
+    "buttons": {
+      "learnMore": "Saber más",
+      "showLess": "Mostrar menos"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title": "Bebe mucha agua 💧",
+        "why": "El agua representa alrededor del 60% de nuestro cuerpo y es esencial para mantener el equilibrio de las funciones vitales, ayudar en la digestión, transportar nutrientes, regular la temperatura corporal y eliminar toxinas.",
+        "how": "Lo ideal es beber al menos 2 litros (aproximadamente 8 vasos) de agua al día. Comienza el día con un vaso de agua al despertar, lleva siempre una botella contigo y prefiere agua en lugar de refrescos o bebidas azucaradas. Si practicas actividad física o estás en un ambiente caluroso, aumenta el consumo para reponer líquidos perdidos por el sudor.",
+        "where": "Distribuye la ingesta de agua a lo largo del día: al despertar, entre comidas, durante el ejercicio físico y antes de dormir. Evita beber grandes cantidades de una sola vez para no sobrecargar los riñones.",
+        "curiosities": [
+          "Beber agua fría puede ayudar a acelerar el metabolismo hasta un 30% durante unos 30 minutos.",
+          "La deshidratación de solo un 2% ya puede reducir la capacidad de concentración y causar fatiga mental.",
+          "Los estudios muestran que quienes beben agua regularmente tienen una piel más saludable y con menos signos de envejecimiento prematuro."
+        ],
+        "benefits": [
+          "Mejora el funcionamiento de los riñones y previene cálculos renales.",
+          "Ayuda en la digestión y previene el estreñimiento.",
+          "Mantiene la piel hidratada y con apariencia más joven.",
+          "Aumenta los niveles de energía y reduce la fatiga.",
+          "Mejora el rendimiento físico y mental."
+        ],
+        "warning": "Evita el exceso: beber más de 5 litros al día sin necesidad puede sobrecargar los riñones y causar un desequilibrio de electrolitos."
+      },
+      {
+        "id": 2,
+        "title": "Haz ejercicio regularmente 🏃‍♀️",
+        "why": "La práctica regular de actividad física fortalece el sistema cardiovascular, mejora la circulación, fortalece músculos y huesos, ayuda a controlar el peso y libera endorfinas, la hormona responsable de la sensación de bienestar. Además, reduce el riesgo de enfermedades crónicas como diabetes, hipertensión y problemas cardíacos.",
+        "how": "Lo ideal es practicar al menos 30 minutos de actividad física moderada, 5 veces por semana. Esto puede incluir caminatas rápidas, trote ligero, pesas, yoga, natación o incluso bailar. Comienza despacio, aumenta la intensidad poco a poco y elige actividades que disfrutes para crear consistencia.",
+        "where": "El ejercicio puede realizarse en diferentes entornos: en casa, en el gimnasio, al aire libre, en el parque, en la playa o incluso en el trabajo aprovechando pausas para estiramientos. Elige lugares que te motiven y te resulten cómodos.",
+        "curiosities": [
+          "Según la OMS, 150 minutos de actividad física por semana ya son suficientes para mejorar la salud general.",
+          "El ejercicio libera endorfinas, conocidas como la 'hormona de la felicidad', que ayudan a combatir el estrés y la ansiedad.",
+          "Los estudios muestran que las personas físicamente activas tienen hasta un 30% menos riesgo de desarrollar enfermedades cardíacas."
+        ],
+        "benefits": [
+          "Mejora la salud del corazón y la circulación sanguínea.",
+          "Aumenta la energía y la vitalidad para las actividades diarias.",
+          "Fortalece músculos, huesos y articulaciones.",
+          "Ayuda a mantener un peso corporal saludable.",
+          "Mejora la calidad del sueño y reduce los niveles de estrés."
+        ],
+        "warning": "Antes de iniciar actividades intensas, busca orientación médica, especialmente si tienes problemas cardíacos, respiratorios o articulares. Evita la sobrecarga para prevenir lesiones."
+      },
+      {
+        "id": 3,
+        "title": "Duerme bien 😴",
+        "why": "Un sueño de calidad es esencial para el buen funcionamiento del cuerpo y la mente. Fortalece el sistema inmunológico, mejora la memoria, ayuda en la consolidación del aprendizaje y regula hormonas importantes como el cortisol y la melatonina. Dormir bien también reduce el riesgo de enfermedades cardiovasculares, diabetes y depresión.",
+        "how": "Intenta dormir entre 7 y 9 horas por noche, manteniendo una rutina regular de horarios para acostarte y levantarte. Evita el uso de celulares, computadoras y televisión al menos 1 hora antes de dormir, ya que la luz azul interfiere con la producción de melatonina. Prefiere ambientes oscuros, silenciosos y frescos. Si es necesario, utiliza antifaces, tapones para los oídos o técnicas de respiración para relajarte.",
+        "where": "En tu habitación o en cualquier ambiente que proporcione comodidad, silencio y poca luz. Un colchón adecuado, almohadas cómodas y buena ventilación pueden marcar una gran diferencia en la calidad del sueño.",
+        "curiosities": [
+          "Según la Fundación Nacional del Sueño, dormir menos de 6 horas por noche aumenta hasta un 48% el riesgo de enfermedades cardíacas.",
+          "Durante el sueño profundo, el cerebro 'limpia' toxinas y desechos acumulados durante el día.",
+          "Los estudios muestran que las personas que duermen bien tienen más enfoque, mejor humor y mayor productividad en el trabajo y los estudios."
+        ],
+        "benefits": [
+          "Mejora la memoria, la concentración y el aprendizaje.",
+          "Fortalece el sistema inmunológico, previniendo enfermedades.",
+          "Equilibra las hormonas relacionadas con el estrés y el apetito.",
+          "Aumenta la energía y la disposición para el día siguiente.",
+          "Ayuda a mantener un peso saludable."
+        ],
+        "warning": "Si sufres de insomnio frecuente, ronquidos fuertes, apnea del sueño o cansancio constante durante el día, consulta a un médico. Los trastornos del sueño pueden afectar gravemente la salud física y mental."
+      },
+      {
+        "id": 4,
+        "title": "Mantén una alimentación balanceada 🥗",
+        "why": "Una dieta equilibrada proporciona los nutrientes esenciales para mantener el cuerpo funcionando de manera saludable, mejora los niveles de energía, fortalece el sistema inmunológico y contribuye a la salud mental. Además, una buena alimentación previene enfermedades crónicas como diabetes, hipertensión y problemas cardíacos.",
+        "how": "Arma platos coloridos y variados: 50% verduras y hortalizas, 25% proteínas magras (pollo, pescado, huevos, tofu) y 25% carbohidratos complejos (arroz integral, batata, quinoa). Incluye buenas fuentes de grasas saludables como aguacate, aceite de oliva y frutos secos. Bebe mucha agua y evita el consumo excesivo de azúcares, refrescos, frituras y ultraprocesados.",
+        "where": "En tu día a día, desde el desayuno hasta la cena, prioriza elecciones más naturales. En restaurantes, opta por platos a la parrilla, ensaladas y verduras, evitando salsas industrializadas. Si es posible, prepara tus comidas en casa para tener mayor control sobre los ingredientes y la calidad de los alimentos.",
+        "curiosities": [
+          "Estudios de la OMS muestran que una alimentación rica en frutas, verduras y fibras puede reducir hasta un 31% el riesgo de enfermedades cardiovasculares.",
+          "Las personas que consumen al menos 5 porciones de frutas y verduras al día tienen mayor longevidad y mejor calidad de vida.",
+          "El color de los alimentos generalmente indica los nutrientes presentes: los vegetales verdes son ricos en hierro, los naranjas y rojos tienen antioxidantes y los morados son excelentes para la salud cerebral."
+        ],
+        "benefits": [
+          "Aumenta la energía y mejora los niveles de vitalidad.",
+          "Fortalece el sistema inmunológico y ayuda en la prevención de enfermedades.",
+          "Mejora la salud intestinal y el metabolismo.",
+          "Contribuye a la salud de la piel, uñas y cabello.",
+          "Ayuda a mantener un peso saludable y a equilibrar los niveles de colesterol y glucosa."
+        ],
+        "warning": "Evita dietas muy restrictivas sin acompañamiento profesional, ya que pueden causar deficiencias nutricionales y dañar la salud. Para quienes tienen condiciones como diabetes, hipertensión o colesterol alto, lo ideal es consultar a un nutricionista para elaborar un plan personalizado."
+      },
+      {
+        "id": 5,
+        "title": "Cuida tu salud mental 🧠",
+        "why": "Mantener una mente saludable es esencial para el equilibrio emocional, el bienestar y la calidad de vida. Una buena salud mental ayuda a enfrentar desafíos, mejora la capacidad de tomar decisiones y reduce los riesgos de ansiedad, depresión y estrés crónico.",
+        "how": "Reserva al menos 15 a 30 minutos al día para cuidarte. Prueba prácticas como meditación, respiración consciente, estiramientos, lectura o escuchar música relajante. Habla con amigos, familiares o personas de confianza sobre lo que sientes. Si notas señales persistentes de estrés, tristeza o ansiedad, busca apoyo con un psicólogo o psiquiatra.",
+        "where": "Puede realizarse en cualquier lugar: en casa, en el trabajo, en la escuela, al aire libre o incluso en pausas rápidas durante el día. Lo importante es crear momentos para reconectarte contigo mismo.",
+        "curiosities": [
+          "La Organización Mundial de la Salud (OMS) afirma que 1 de cada 4 personas en el mundo enfrentará algún trastorno de salud mental a lo largo de su vida.",
+          "Los estudios indican que las prácticas de meditación y mindfulness pueden reducir los niveles de estrés hasta en un 40%.",
+          "Dormir bien, alimentarse de forma equilibrada y practicar ejercicio físico tienen un impacto directo en la salud emocional."
+        ],
+        "benefits": [
+          "Reduce los niveles de estrés y ansiedad.",
+          "Mejora el enfoque, la memoria y la productividad.",
+          "Aumenta la calidad del sueño y el bienestar general.",
+          "Fortalece las relaciones interpersonales.",
+          "Previene trastornos mentales a largo plazo."
+        ],
+        "warning": "No ignores señales persistentes de tristeza, falta de motivación, insomnio, crisis de ansiedad o cambios drásticos de humor. Buscar apoyo psicológico o psiquiátrico no es un signo de debilidad, sino de autocuidado y valentía."
+      }
+    ]
+  }
 }

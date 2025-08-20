@@ -35,9 +35,10 @@ export const NavbarLogo = styled(Typography)`
   font-size: 1.25rem;
 `;
 
-export const NavbarLogoLink = styled(Link)`
+export const NavbarLogoLink = styled("span")`
   text-decoration: none;
   color: inherit;
+  cursor: pointer;
 `;
 
 export const NavbarMenu = styled(Box)`

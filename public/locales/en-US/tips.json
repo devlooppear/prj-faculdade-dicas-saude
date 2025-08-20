@@ -1,3 +1,119 @@
 {
-    "tips" : {}
+  "tips": {
+    "title": "Health Tips",
+    "subtitle": "Learn how to improve your health with simple and practical steps",
+    "labels": {
+      "why": "Why",
+      "how": "How to do",
+      "where": "Where to apply",
+      "curiosities": "Curiosities 🧠",
+      "benefits": "Benefits 🌿"
+    },
+    "buttons": {
+      "learnMore": "Learn more",
+      "showLess": "Show less"
+    },
+    "items": [
+      {
+        "id": 1,
+        "title": "Drink plenty of water 💧",
+        "why": "Water makes up about 60% of our body and is essential for maintaining the balance of vital functions, aiding digestion, transporting nutrients, regulating body temperature, and eliminating toxins.",
+        "how": "Ideally, drink at least 2 liters (about 8 glasses) of water per day. Start your day with a glass of water when you wake up, always carry a bottle with you, and choose water instead of sodas or sugary drinks. If you exercise or are in a hot environment, increase your intake to replace fluids lost through sweat.",
+        "where": "Spread your water intake throughout the day: when you wake up, between meals, during physical activities, and before bed. Avoid drinking large amounts all at once to prevent overloading your kidneys.",
+        "curiosities": [
+          "Drinking cold water can help boost metabolism by up to 30% for about 30 minutes.",
+          "Just 2% dehydration can reduce concentration capacity and cause mental fatigue.",
+          "Studies show that people who drink water regularly have healthier skin with fewer signs of premature aging."
+        ],
+        "benefits": [
+          "Improves kidney function and prevents kidney stones.",
+          "Aids digestion and prevents constipation.",
+          "Keeps skin hydrated and looking younger.",
+          "Boosts energy levels and reduces fatigue.",
+          "Improves physical and mental performance."
+        ],
+        "warning": "Avoid excess: drinking more than 5 liters a day without necessity can overload the kidneys and cause electrolyte imbalance."
+      },
+      {
+        "id": 2,
+        "title": "Exercise regularly 🏃‍♀️",
+        "why": "Regular physical activity strengthens the cardiovascular system, improves circulation, strengthens muscles and bones, helps control weight, and releases endorphins, the hormone responsible for the feeling of well-being. It also reduces the risk of chronic diseases such as diabetes, hypertension, and heart problems.",
+        "how": "Aim for at least 30 minutes of moderate physical activity, 5 times a week. This may include brisk walking, light jogging, weight training, yoga, swimming, or even dancing. Start slowly, gradually increase intensity, and choose activities you enjoy to build consistency.",
+        "where": "Exercises can be done in different environments: at home, in the gym, outdoors, in the park, at the beach, or even at work by taking stretching breaks. Choose places that keep you motivated and comfortable.",
+        "curiosities": [
+          "According to the WHO, 150 minutes of physical activity per week are enough to improve overall health.",
+          "Exercise releases endorphins, known as the 'happiness hormone,' which helps combat stress and anxiety.",
+          "Studies show that physically active people have up to a 30% lower risk of developing heart disease."
+        ],
+        "benefits": [
+          "Improves heart health and blood circulation.",
+          "Increases energy and vitality for daily activities.",
+          "Strengthens muscles, bones, and joints.",
+          "Helps maintain a healthy body weight.",
+          "Improves sleep quality and reduces stress levels."
+        ],
+        "warning": "Before starting intense activities, seek medical advice, especially if you have heart, respiratory, or joint problems. Avoid overloading to prevent injuries."
+      },
+      {
+        "id": 3,
+        "title": "Sleep well 😴",
+        "why": "Quality sleep is essential for proper body and mind function. It strengthens the immune system, improves memory, helps consolidate learning, and regulates important hormones like cortisol and melatonin. Sleeping well also reduces the risk of cardiovascular diseases, diabetes, and depression.",
+        "how": "Try to sleep 7 to 9 hours per night, keeping a regular routine for going to bed and waking up. Avoid using phones, computers, and TV at least 1 hour before bed, as blue light interferes with melatonin production. Prefer dark, quiet, and cool environments. If necessary, use eye masks, earplugs, or breathing techniques to relax.",
+        "where": "In your bedroom or any environment that provides comfort, silence, and low light. A proper mattress, comfortable pillows, and good ventilation can make a big difference in sleep quality.",
+        "curiosities": [
+          "According to the National Sleep Foundation, sleeping less than 6 hours a night increases the risk of heart disease by up to 48%.",
+          "During deep sleep, the brain 'cleans out' toxins and waste that build up during the day.",
+          "Studies show that people who sleep well have better focus, mood, and productivity at work and school."
+        ],
+        "benefits": [
+          "Improves memory, concentration, and learning.",
+          "Strengthens the immune system, preventing diseases.",
+          "Balances stress and appetite-related hormones.",
+          "Boosts energy and vitality for the next day.",
+          "Helps maintain a healthy weight."
+        ],
+        "warning": "If you suffer from frequent insomnia, loud snoring, sleep apnea, or constant daytime fatigue, seek medical help. Sleep disorders can seriously affect physical and mental health."
+      },
+      {
+        "id": 4,
+        "title": "Have a balanced diet 🥗",
+        "why": "A balanced diet provides essential nutrients to keep the body functioning healthily, boosts energy levels, strengthens the immune system, and contributes to mental health. It also prevents chronic diseases like diabetes, hypertension, and heart problems.",
+        "how": "Prepare colorful and varied plates: 50% vegetables, 25% lean proteins (chicken, fish, eggs, tofu), and 25% complex carbohydrates (brown rice, sweet potato, quinoa). Include healthy fats like avocado, olive oil, and nuts. Drink plenty of water and avoid excessive sugar, sodas, fried foods, and ultra-processed products.",
+        "where": "In daily life, from breakfast to dinner, prioritize more natural choices. At restaurants, opt for grilled dishes, salads, and vegetables, avoiding industrialized sauces. If possible, prepare meals at home for more control over ingredients and food quality.",
+        "curiosities": [
+          "WHO studies show that a diet rich in fruits, vegetables, and fiber can reduce the risk of cardiovascular disease by up to 31%.",
+          "People who consume at least 5 servings of fruits and vegetables per day have greater longevity and better quality of life.",
+          "The color of foods usually indicates the nutrients present: green vegetables are rich in iron, orange and red ones have antioxidants, and purple foods are great for brain health."
+        ],
+        "benefits": [
+          "Boosts vitality and improves energy levels.",
+          "Strengthens the immune system and helps prevent diseases.",
+          "Improves gut health and metabolism.",
+          "Contributes to skin, hair, and nail health.",
+          "Helps maintain a healthy weight and balance cholesterol and glucose levels."
+        ],
+        "warning": "Avoid very restrictive diets without professional guidance, as they can cause nutritional deficiencies and harm your health. For conditions like diabetes, hypertension, or high cholesterol, consult a nutritionist for a personalized plan."
+      },
+      {
+        "id": 5,
+        "title": "Take care of your mental health 🧠",
+        "why": "Maintaining a healthy mind is essential for emotional balance, well-being, and quality of life. Good mental health helps you cope with challenges, improves decision-making, and reduces the risks of anxiety, depression, and chronic stress.",
+        "how": "Set aside at least 15 to 30 minutes a day to care for yourself. Try practices like meditation, mindful breathing, stretching, reading, or listening to relaxing music. Talk to friends, family, or trusted people about how you feel. If you notice persistent signs of stress, sadness, or anxiety, seek support from a psychologist or psychiatrist.",
+        "where": "It can be done anywhere: at home, at work, at school, outdoors, or even during quick breaks throughout the day. The important thing is to create moments to reconnect with yourself.",
+        "curiosities": [
+          "The World Health Organization (WHO) states that 1 in 4 people worldwide will face a mental health disorder during their lifetime.",
+          "Studies show that meditation and mindfulness practices can reduce stress levels by up to 40%.",
+          "Sleeping well, eating a balanced diet, and exercising have a direct impact on emotional health."
+        ],
+        "benefits": [
+          "Reduces stress and anxiety levels.",
+          "Improves focus, memory, and productivity.",
+          "Enhances sleep quality and overall well-being.",
+          "Strengthens interpersonal relationships.",
+          "Prevents long-term mental disorders."
+        ],
+        "warning": "Do not ignore persistent signs of sadness, lack of motivation, insomnia, anxiety attacks, or drastic mood changes. Seeking psychological or psychiatric support is not a sign of weakness but of self-care and courage."
+      }
+    ]
+  }
 }
