@@ -44,8 +44,7 @@ export default function Footer() {
   const navLinks = [
     { href: Routes.HOME, label: t("navbar.home") },
     { href: Routes.TIPS, label: t("navbar.tips") },
-    { href: Routes.ABOUT, label: t("navbar.about") },
-    { href: Routes.CONTACT, label: t("navbar.contact") },
+    { href: Routes.ABOUT, label: t("navbar.about") }
   ];
 
   return (

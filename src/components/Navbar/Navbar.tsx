@@ -50,11 +50,6 @@ export default function Navbar() {
       icon: <TipsAndUpdatesIcon />,
     },
     { label: t("navbar.about"), path: Routes.ABOUT, icon: <InfoIcon /> },
-    {
-      label: t("navbar.contact"),
-      path: Routes.CONTACT,
-      icon: <ContactMailIcon />,
-    },
   ];
 
   const handleNavigate = (path: string) => {
