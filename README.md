@@ -60,11 +60,6 @@ O desenvolvimento e execução das ações extensionistas seguem a metodologia P
 	- Correção de rotas e ajustes necessários.
 	- Registro de aprendizados e preparação do relatório final.
 
-### Como contribuir 🤝
-1. Siga as orientações do manual extensionista e utilize o template PDCA para propor novas ações ou melhorias.
-2. Registre suas ideias, experiências e resultados no repositório, preferencialmente em issues ou pull requests.
-3. Utilize linguagem respeitosa e siga as normas institucionais.
-
 ### Estrutura do Projeto 🗂️
 - **/public**: Imagens e recursos estáticos.
 - **/src/app**: Páginas principais e rotas.
