@@ -31,6 +31,7 @@ import {
 } from "./Navbar.style";
 import systemColors from "@/common/constants/systemColors";
 import LanguageSwitcher from "../LanguageSwitcher/LanguageSwitcher";
+import { Routes } from "@/common/constants/routes";
 
 export default function Navbar() {
   const { t } = useTranslation();
@@ -42,10 +43,18 @@ export default function Navbar() {
   };
 
   const menuItems = [
-    { label: t("navbar.home"), path: "/", icon: <HomeIcon /> },
-    { label: t("navbar.tips"), path: "/dicas", icon: <TipsAndUpdatesIcon /> },
-    { label: t("navbar.about"), path: "/about", icon: <InfoIcon /> },
-    { label: t("navbar.contact"), path: "/contact", icon: <ContactMailIcon /> },
+    { label: t("navbar.home"), path: Routes.HOME, icon: <HomeIcon /> },
+    {
+      label: t("navbar.tips"),
+      path: Routes.TIPS,
+      icon: <TipsAndUpdatesIcon />,
+    },
+    { label: t("navbar.about"), path: Routes.ABOUT, icon: <InfoIcon /> },
+    {
+      label: t("navbar.contact"),
+      path: Routes.CONTACT,
+      icon: <ContactMailIcon />,
+    },
   ];
 
   const handleNavigate = (path: string) => {
