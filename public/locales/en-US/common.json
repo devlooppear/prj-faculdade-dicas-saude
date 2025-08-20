@@ -12,5 +12,10 @@
     "title": "Start Your Healthy Journey 🍃",
     "description": "Learn how to live a better and healthier life through practical tips, balanced nutrition, and a lifestyle that works for you.",
     "button": "See More Tips"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "Oops! The page you're looking for doesn't exist or has been moved. Please go back to the homepage and explore our content.",
+    "backButton": "Go Back Home"
   }
 }

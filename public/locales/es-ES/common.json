@@ -12,5 +12,10 @@
     "title": "Comienza tu viaje hacia una vida saludable 🍃",
     "description": "Aprende a vivir una vida mejor y más saludable a través de consejos prácticos, nutrición equilibrada y un estilo de vida que funcione para ti.",
     "button": "Ver más consejos"
+  },
+  "notFound": {
+    "title": "Página No Encontrada",
+    "description": "¡Ups! La página que buscas no existe o ha sido movida. Vuelve a la página principal y explora nuestro contenido.",
+    "backButton": "Volver al Inicio"
   }
 }

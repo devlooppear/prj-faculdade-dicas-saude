@@ -12,5 +12,10 @@
     "title": "Comece sua Jornada Saudável 🍃",
     "description": "Aprenda a viver uma vida melhor e mais saudável por meio de dicas práticas, nutrição equilibrada e um estilo de vida que funciona para você.",
     "button": "Ver Mais Dicas"
+  },
+  "notFound": {
+    "title": "Página Não Encontrada",
+    "description": "Ops! A página que você está procurando não existe ou foi movida. Volte para a página inicial e explore nosso conteúdo.",
+    "backButton": "Voltar para a Página Inicial"
   }
 }
