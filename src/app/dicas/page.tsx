@@ -48,11 +48,11 @@ export default function DicasPage() {
   };
 
   const icons = [
-    <LocalHospitalIcon sx={{ fontSize: 40, color: systemColors.green[700] }} />,
-    <FitnessCenterIcon sx={{ fontSize: 40, color: systemColors.green[700] }} />,
-    <EmojiNatureIcon sx={{ fontSize: 40, color: systemColors.green[700] }} />,
-    <FavoriteIcon sx={{ fontSize: 40, color: systemColors.green[700] }} />,
-    <PsychologyIcon sx={{ fontSize: 40, color: systemColors.green[700] }} />,
+    <LocalHospitalIcon sx={{ fontSize: 40, color: systemColors.green[700] }} key="icon-1" />,
+    <FitnessCenterIcon sx={{ fontSize: 40, color: systemColors.green[700] }} key="icon-2" />,
+    <EmojiNatureIcon sx={{ fontSize: 40, color: systemColors.green[700] }} key="icon-3" />,
+    <FavoriteIcon sx={{ fontSize: 40, color: systemColors.green[700] }} key="icon-4" />,
+    <PsychologyIcon sx={{ fontSize: 40, color: systemColors.green[700] }} key="icon-5" />,
   ];
 
   return (
@@ -131,7 +131,7 @@ export default function DicasPage() {
                     </Typography>
                     <List dense>
                       {tip.curiosities.map((curiosity, i) => (
-                        <ListItem key={i}>
+                        <ListItem key={`${tip.id}-curiosity-${i}`}>
                           <ListItemText primary={`• ${curiosity}`} />
                         </ListItem>
                       ))}
@@ -152,7 +152,7 @@ export default function DicasPage() {
                     </Typography>
                     <List dense>
                       {tip.benefits.map((benefit, i) => (
-                        <ListItem key={i}>
+                        <ListItem key={`${tip.id}-benefit-${i}`}>
                           <ListItemText primary={`• ${benefit}`} />
                         </ListItem>
                       ))}
