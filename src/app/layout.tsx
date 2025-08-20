@@ -1,6 +1,6 @@
-import I18nProvider from "@/provider/I18nProvider";
+import I18nProvider from "@/provider/i18n/I18nProvider";
 import { MainLayout } from "@/template";
-import ThemeRegistry from "@/provider/ThemeRegistry";
+import ThemeRegistry from "@/provider/theme/ThemeRegistry";
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 
