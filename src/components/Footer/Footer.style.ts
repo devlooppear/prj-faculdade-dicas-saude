@@ -11,6 +11,7 @@ export const FooterContainer = styled(Box)`
   padding-bottom: 16px;
   padding-left: 16px;
   padding-right: 16px;
+  min-height: 10rem;
 
   @media (min-width: 600px) {
     padding-left: 32px;
