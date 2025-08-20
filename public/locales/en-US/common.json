@@ -1,5 +1,11 @@
 {
   "title": "Dicas Saúde",
+  "navbar": {
+    "home": "Home",
+    "tips": "Health Tips",
+    "about": "About",
+    "contact": "Contact"
+  },
   "welcome": "Welcome to <strong>Dicas Saúde</strong> — a project created for my <strong>university extension program</strong>. Our mission is to share <strong>practical and reliable health tips</strong> to help communities live healthier and happier lives.",
   "explore_button": "Explore Health Tips",
   "card": {

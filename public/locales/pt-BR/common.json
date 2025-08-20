@@ -1,5 +1,11 @@
 {
   "title": "Dicas Saúde",
+  "navbar": {
+    "home": "Início",
+    "tips": "Dicas de Saúde",
+    "about": "Sobre",
+    "contact": "Contato"
+  },
   "welcome": "Bem-vindo ao <strong>Dicas Saúde</strong> — um projeto criado para meu <strong>programa de extensão universitária</strong>. Nossa missão é compartilhar <strong>dicas de saúde práticas e confiáveis</strong> para ajudar comunidades a viverem de forma mais saudável e feliz.",
   "explore_button": "Explorar Dicas de Saúde",
   "card": {
