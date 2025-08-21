@@ -9,7 +9,6 @@ import CssBaseline from "@mui/material/CssBaseline";
 const theme = extendTheme({
   colorSchemes: {
     light: true,
-    dark: true,
   },
   typography: {
     fontFamily: "Roboto, Arial, sans-serif",
